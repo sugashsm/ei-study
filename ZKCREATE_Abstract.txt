@@ -1,0 +1,17 @@
+**Abstract of Final Year Project: ZKCREATE - A Secure and Private Content Creation Platform by Integrating ZKP into Blockchain**  
+In today's digital era, creating content and sharing it is extremely popular; however, there are also emerging concerns with privacy, data breaches, and unauthorized access to your content. Most current platforms lack substantial privacy protection, hence leaving user-generated content vulnerable in many ways of misuse. ZKCREATE proposes a decentralized, secure, and privacy-centric content creation platform pointed at the integration of Zero-Knowledge Proof and blockchain technology.
+
+The ZKCREATE platform gives content creators a system that guarantees total privacy in digital content-sharing and allows access without leakage of sensitive data. The immutable and decentralized nature of blockchain is utilized by the platform in creating trust amongst its users without the need for intermediaries. Security is enhanced with the ZKP technology in place, enabling users to prove ownership and the integrity of the content without necessarily exposing the actual content or sensitive details.
+
+**Key features:**  
+- **Decentralized Content Management:** This would ensure that the creator securely uploads and manages their content using the blockchain without depending on a centralized authority.  
+- **Zero-Knowledge Proof:** This is implemented regarding the verification of private content. Thus, any user is allowed to verify access and prove ownership without revealing the underlying data.  
+- **Privacy-preserving access control:** For any content, the owner shall have full control on who can access it, while the ZKP ensures only the authorized users can view or interact with it, keeping the rest of the information private.  
+- **Immutable, transparent record:** Transactions around content creation, sharing, and viewability are recorded on the blockchain to maintain an immutable, transparent history without exposing users' privacy.  
+- **Ownership of Content and Monetizing:** The blockchain-based smart contracts mean creators retain full ownership of their content and are safely able to monetize that.
+
+**Objectives:**  
+Methods to be implemented include creating a secure content creation and sharing site, ensuring data privacy by using Zero-Knowledge Proofs. This means offering a decentralized platform through blockchain that ensures the immutability and integrity of content. Provide an access control system whereby creators in content have full control over the privacy and sharing rules. The UI should be designed in a way that interaction is easy between the creators and consumers of the content within the platform.
+
+**Conclusion:**  
+ZKCREATE is the coming together of powers by blockchain and Zero-Knowledge Proof to safely create content in a decentralized and private manner. This project deals with some of the major challenges regarding security, privacy, and trust of content and helps creators safely manage and share digital assets within the highly fragile world of online interactions.
